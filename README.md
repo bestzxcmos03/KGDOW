@@ -1,2 +1,2 @@
-# KGDOW
-Khon gesture detection on website.
+# Khon-gesture-detection-on-website
+Special project.
